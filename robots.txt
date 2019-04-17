@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://yudaebueke.dst4l.info/sitemap.xml
